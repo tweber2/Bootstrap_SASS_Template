@@ -1,2 +1,2 @@
 # Bootstrap_SASS_Template
-Uses Bootstrap Download with SASS setup for styling
+Uses Bootstrap with sass, postcss-cli,autoprefixer, and fontawsome
